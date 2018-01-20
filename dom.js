@@ -42,4 +42,4 @@ var document = [
   }
 ]
 var array = [];
-array.push(document.querySelector('div ul')
+array.push(document.querySelectorAll('div ul li'))
