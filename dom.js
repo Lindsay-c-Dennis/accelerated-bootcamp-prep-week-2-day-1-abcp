@@ -41,3 +41,5 @@ var document = [
     ]
   }
 ]
+var array = [];
+array.push(document.querySelector('div children')
